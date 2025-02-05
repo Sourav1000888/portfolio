@@ -130,7 +130,8 @@ small a{
     color: rgb(170, 137, 137);
 }
 body{
-    overflow-x: hidden;
+/*     overflow-x: hidden; */
+/*     overflow: hidden; */
 }
 #footer-sidebar .border-dark{
     background-color: rgb(53, 1, 1);
